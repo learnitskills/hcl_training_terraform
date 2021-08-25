@@ -1,0 +1,3 @@
+ec2-ami.tf
+ec2-instance.tf
+securitygroup.tf
